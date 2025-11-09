@@ -37,17 +37,4 @@ A simple and efficient software designed to manage customer and key information,
 
 *(More exciting projects coming soon!)*
 
----
-
-
-## 🤝 Connect With Me
-📫 Reach me via [Email](mailto:your-email@example.com) or connect on [LinkedIn](#).  
-💬 Open to collaboration, new ideas, and exciting projects!
-
----
-
-### ✨ “Turning ideas into code and code into impact 💡💻”
-
----
-
 ⭐️ *Thanks for visiting my profile! Drop a ⭐ on my repositories if you like my work.*
