@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 👋 Hey there! I'm **Sam Sunny**
 ### 🎓 B.Tech CSE (AI) Student @ Muthoot Institute of Technology and Science, Kerala
 
@@ -60,4 +60,3 @@ A simple and efficient software designed to manage customer and key information,
 ---
 
 ⭐️ *Thanks for visiting my profile! Drop a ⭐ on my repositories if you like my work.*
-```
