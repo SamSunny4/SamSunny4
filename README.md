@@ -1,4 +1,3 @@
-markdown
 # 👋 Hey there! I'm **Sam Sunny**
 ### 🎓 B.Tech CSE (AI) Student @ Muthoot Institute of Technology and Science, Kerala
 
