@@ -23,7 +23,6 @@
 <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
 <img src="https://skillicons.dev/icons?i=react" width="40"/>
 <img src="https://skillicons.dev/icons?i=flask" width="40"/>
-<img src="https://skillicons.dev/icons?i=fastify" width="40"/>
 <img src="https://skillicons.dev/icons?i=dotnet" width="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
 </p>
@@ -32,7 +31,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
-<img src="https://skillicons.dev/icons?i=neo4j" width="40"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
 <img src="https://skillicons.dev/icons?i=git" width="40"/>
 <img src="https://skillicons.dev/icons?i=docker" width="40"/>
