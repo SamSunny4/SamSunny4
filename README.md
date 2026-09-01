@@ -62,11 +62,8 @@ Digital signage CMS designed for 43-inch vertical displays. Supports dynamic con
 ### Achievements
 
 🥈 **National 2nd Prize** — AI Samasya Hackathon
-
 🚀 **Bharatiya Antariksh Hackathon 2025** — ISRO × Hack2Skill
-
 🏢 **Program Representative** — CSE (AI), MITS College Union
-
 🎓 **NPTEL Elite** — Python for Data Science
 
 
