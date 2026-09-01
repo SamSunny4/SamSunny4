@@ -1,49 +1,72 @@
 # Sam Sunny
 
-**B.Tech CSE (AI) @ MITS, Kerala**
-AI Engineer · Full-Stack Developer · Builder
-
 [Email](mailto:samsunnymodern12@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sam-sunny-36b4772bb/) · [GitHub](https://github.com/SamSunny4)
 
 ---
 
-### About
-
-I build practical software using **AI, full-stack development, and system design**.
-
-Currently exploring **AI/ML, computer vision, data analytics, and distributed systems**.
-
----
-
-### Tech
+### Tech Stack
 
 **Languages**
-Python · TypeScript · JavaScript · Java · C# · C · SQL
 
-**Frameworks**
-Next.js · React · Flask · Fastify · .NET MAUI · Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+<img src="https://skillicons.dev/icons?i=typescript" width="40"/>
+<img src="https://skillicons.dev/icons?i=java" width="40"/>
+<img src="https://skillicons.dev/icons?i=cs" width="40"/>
+<img src="https://skillicons.dev/icons?i=c" width="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
+<img src="https://skillicons.dev/icons?i=react" width="40"/>
+<img src="https://skillicons.dev/icons?i=flask" width="40"/>
+<img src="https://skillicons.dev/icons?i=fastify" width="40"/>
+<img src="https://skillicons.dev/icons?i=dotnet" width="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+</p>
 
 **Databases & Tools**
-PostgreSQL · MongoDB · Neo4j · H2 · Git · Docker
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+<img src="https://skillicons.dev/icons?i=neo4j" width="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=docker" width="40"/>
+</p>
 
 ---
 
 ### Projects
 
-**[KeyBase](https://github.com/SamSunny4/KeyBase)** — Commercial key management software
+**[KeyBase](https://github.com/SamSunny4/KeyBase)**
+Commercial key management application built for a key duplication business. Handles customer records, sales, webcam-based customer/image capture, and analytics through a local H2 database. Packaged as a portable standalone Java application.
+
 `Java · Swing · H2`
 
-**[Leadis / AiSam](https://github.com/SamSunny4/Leadis)** — AI developmental screening platform
-`Next.js · MediaPipe · Flask · ML`
-🥈 National 2nd Prize — AI Samasya Hackathon
+**[Leadis / AiSam](https://github.com/SamSunny4/Leadis)**
+AI-assisted developmental screening platform combining browser-based computer vision with machine learning. Uses MediaPipe for gesture and pose analysis and a Flask backend for multimodal behavioral risk assessment.
 
-**[DBMS](https://github.com/SamSunny4/DBMS)** — Graph-based fraud detection platform
+`Next.js · MediaPipe · Flask · ML`
+🥈 **National 2nd Prize — AI Samasya Hackathon**
+
+**[DBMS](https://github.com/SamSunny4/DBMS)**
+Graph-based fraud detection platform for analyzing blockchain transactions. Models transaction relationships using Neo4j and provides interactive 2D/3D graph exploration for tracing transaction chains, identifying multi-hop patterns, and assessing risk.
+
 `Next.js · Fastify · Neo4j · Three.js`
 
-**[FitMan](https://github.com/SamSunny4/FitMan)** — Cross-platform gym management system
-`C# · .NET MAUI · .NET 8`
+**[FitMan](https://github.com/SamSunny4/FitMan)**
+Cross-platform gym management system built around an MVVM architecture. Provides member management, subscriptions, attendance, payments, and analytics across Windows, Android, iOS, and macOS.
 
-**[InfoGrid](https://github.com/SamSunny4/InfoGrid)** — Digital display management platform
+`C# · .NET MAUI · .NET 8 · MVVM`
+
+**[InfoGrid](https://github.com/SamSunny4/InfoGrid)**
+Digital signage CMS designed for 43-inch vertical displays. Supports dynamic content publishing, automated feed rotation, QR generation, media management, and an administrative dashboard backed by cloud object storage.
+
 `Next.js · TypeScript · MongoDB · Cloudflare R2`
 
 ---
