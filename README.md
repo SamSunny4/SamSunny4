@@ -54,15 +54,6 @@ AI-assisted developmental screening platform combining browser-based computer vi
 `Next.js · MediaPipe · Flask · ML`
 🥈 **National 2nd Prize — AI Samasya Hackathon**
 
-**[DBMS](https://github.com/SamSunny4/DBMS)**
-Graph-based fraud detection platform for analyzing blockchain transactions. Models transaction relationships using Neo4j and provides interactive 2D/3D graph exploration for tracing transaction chains, identifying multi-hop patterns, and assessing risk.
-
-`Next.js · Fastify · Neo4j · Three.js`
-
-**[FitMan](https://github.com/SamSunny4/FitMan)**
-Cross-platform gym management system built around an MVVM architecture. Provides member management, subscriptions, attendance, payments, and analytics across Windows, Android, iOS, and macOS.
-
-`C# · .NET MAUI · .NET 8 · MVVM`
 
 **[InfoGrid](https://github.com/SamSunny4/InfoGrid)**
 Digital signage CMS designed for 43-inch vertical displays. Supports dynamic content publishing, automated feed rotation, QR generation, media management, and an administrative dashboard backed by cloud object storage.
