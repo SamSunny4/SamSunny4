@@ -2,7 +2,6 @@
 
 [Email](mailto:samsunnymodern12@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sam-sunny-36b4772bb/) · [GitHub](https://github.com/SamSunny4)
 
----
 
 ### Tech Stack
 
@@ -39,7 +38,6 @@
 <img src="https://skillicons.dev/icons?i=docker" width="40"/>
 </p>
 
----
 
 ### Projects
 
@@ -60,15 +58,16 @@ Digital signage CMS designed for 43-inch vertical displays. Supports dynamic con
 
 `Next.js · TypeScript · MongoDB · Cloudflare R2`
 
----
 
 ### Achievements
 
 🥈 **National 2nd Prize** — AI Samasya Hackathon
+
 🚀 **Bharatiya Antariksh Hackathon 2025** — ISRO × Hack2Skill
+
 🏢 **Program Representative** — CSE (AI), MITS College Union
+
 🎓 **NPTEL Elite** — Python for Data Science
 
----
 
 > **Building useful things with AI and software.**
